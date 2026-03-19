@@ -6,13 +6,10 @@ class Solution {
                 r++;
             }
             int count=r - s;
-            
-            char[] len = String.valueOf(count).toCharArray();
-            //just write the letter here and the move forward once
             chars[w] = chars[s];
             w++;
             if(count>1){
-                for(char c : len){
+                for(char c : String.valueOf(count).toCharArray()){
                     chars[w] = c;
                     w++;
                 }
