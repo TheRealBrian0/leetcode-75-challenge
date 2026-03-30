@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0724-find-pivot-index](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0724-find-pivot-index) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
