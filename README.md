@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -38,5 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
