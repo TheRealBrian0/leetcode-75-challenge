@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
+## Matrix
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2352-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
