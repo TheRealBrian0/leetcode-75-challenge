@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2352-equal-row-and-column-pairs) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
