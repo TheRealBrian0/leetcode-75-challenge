@@ -85,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
