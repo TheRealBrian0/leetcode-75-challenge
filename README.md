@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0700-search-in-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
