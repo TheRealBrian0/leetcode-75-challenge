@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1768-merge-strings-alternately) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 | [0872-leaf-similar-trees](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0872-leaf-similar-trees) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -130,10 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
