@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0875-koko-eating-bananas) |
 ## Union-Find
 |  |
 | ------- |
