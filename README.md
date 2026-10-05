@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0724-find-pivot-index) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [1207-unique-number-of-occurrences](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0547-number-of-provinces) |
 ## Graph Theory
