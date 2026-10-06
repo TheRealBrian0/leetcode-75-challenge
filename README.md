@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0647-palindromic-substrings) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0647-palindromic-substrings) |
 ## Floyd's Cycle Finding Algorithm
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0139-word-break) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
