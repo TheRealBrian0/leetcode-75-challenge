@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
+| [0647-palindromic-substrings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0647-palindromic-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/1768-merge-strings-alternately) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0399-evaluate-division) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/TheRealBrian0/leetcode-75-challenge/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
